@@ -20,7 +20,7 @@
     "postgres": "^3.4.5",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "sweetalert2": "^11.21.2",
+    "sweetalert2": "^11.22.4",
     "tailwindcss": "^4.1.7",
     "zod": "^3.25.7"
   },
