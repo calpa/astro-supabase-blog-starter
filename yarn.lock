@@ -1721,6 +1721,28 @@ __metadata:
   languageName: node
   linkType: hard
 
+"astro-supabase-blog-starter@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "astro-supabase-blog-starter@workspace:."
+  dependencies:
+    "@astrojs/react": "npm:^4.2.7"
+    "@supabase/supabase-js": "npm:^2.49.5"
+    "@tailwindcss/vite": "npm:^4.1.7"
+    "@types/react": "npm:^19.1.4"
+    "@types/react-dom": "npm:^19.1.5"
+    astro: "npm:^5.7.13"
+    dotenv: "npm:^16.5.0"
+    drizzle-kit: "npm:^0.31.1"
+    drizzle-orm: "npm:^0.43.1"
+    postgres: "npm:^3.4.5"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    sweetalert2: "npm:^11.21.2"
+    tailwindcss: "npm:^4.1.7"
+    zod: "npm:^3.25.7"
+  languageName: unknown
+  linkType: soft
+
 "astro@npm:^5.7.13":
   version: 5.7.13
   resolution: "astro@npm:5.7.13"
@@ -1854,11 +1876,11 @@ __metadata:
   linkType: hard
 
 "brace-expansion@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "brace-expansion@npm:2.0.1"
+  version: 2.0.2
+  resolution: "brace-expansion@npm:2.0.2"
   dependencies:
     balanced-match: "npm:^1.0.0"
-  checksum: 10c0/b358f2fe060e2d7a87aa015979ecea07f3c37d4018f8d6deb5bd4c229ad3a0384fe6029bb76cd8be63c81e516ee52d1a0673edbe2023d53a5191732ae3c3e49f
+  checksum: 10c0/6d117a4c793488af86b83172deb6af143e94c17bc53b0b3cec259733923b4ca84679d506ac261f4ba3c7ed37c46018e2ff442f9ce453af8643ecd64f4a54e6cf
   languageName: node
   linkType: hard
 
@@ -5312,28 +5334,6 @@ __metadata:
   checksum: 10c0/e5d9eb4810623f23758cfc2205323e33552fb5972e5c2e6587babe08fe4d24859866277404fb9e2a20afb71013860d96ec806cb257536ae463c87d70022ab9ef
   languageName: node
   linkType: hard
-
-"vibe-board-starter@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "vibe-board-starter@workspace:."
-  dependencies:
-    "@astrojs/react": "npm:^4.2.7"
-    "@supabase/supabase-js": "npm:^2.49.5"
-    "@tailwindcss/vite": "npm:^4.1.7"
-    "@types/react": "npm:^19.1.4"
-    "@types/react-dom": "npm:^19.1.5"
-    astro: "npm:^5.7.13"
-    dotenv: "npm:^16.5.0"
-    drizzle-kit: "npm:^0.31.1"
-    drizzle-orm: "npm:^0.43.1"
-    postgres: "npm:^3.4.5"
-    react: "npm:^19.1.0"
-    react-dom: "npm:^19.1.0"
-    sweetalert2: "npm:^11.21.2"
-    tailwindcss: "npm:^4.1.7"
-    zod: "npm:^3.25.7"
-  languageName: unknown
-  linkType: soft
 
 "vite@npm:^6.3.4":
   version: 6.3.5
